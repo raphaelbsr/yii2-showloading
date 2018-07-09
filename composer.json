@@ -1,0 +1,32 @@
+{
+    "name": "raphaelbsr/yii2-showloading",
+    "description": "Yii2 extension for showLoading jQuery plugin",
+    "keywords": [
+        "yii2",
+        "showLoading",
+        "widget",
+        "jQuery",
+        "plugin",
+        "ajax"
+    ],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jim Keller",
+            "homepage": "http://www.contextllc.com"
+        },
+        {
+            "name": "Alexander Stepanov",
+            "email": "student_vmk@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "raphaelbsr\\yii2-showloading\\": ""
+        }
+    }
+}
