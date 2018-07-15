@@ -10,7 +10,7 @@ use yii\web\AssetBundle;
  */
 class ShowLoadingAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/raphaelbsrmsu/yii2-showloading/assets';
+    public $sourcePath = '@vendor/raphaelbsr/yii2-showloading/assets';
     public $css = [
         'css/showLoading.css',
     ];
